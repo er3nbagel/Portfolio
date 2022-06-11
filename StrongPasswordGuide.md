@@ -24,7 +24,9 @@ For example, I could choose `1995` which is the year I was born.
 ## Step 3.
 Choose one of your favorite symbols to use.
 
-For example, using `+` which would help with the complexity of your password.
+Here are a list of symbols you can use, `!@#$%^&*()-+;"{}[]\|,./<>?`.
+
+As an example, using `+` which would help with the complexity of your password.
 
 ## Step 4.
 Now, create your password in the format described below.

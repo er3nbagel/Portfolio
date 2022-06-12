@@ -21,7 +21,7 @@ During my free time, I enjoy playing video games such as Apex Legends and League
 3. Rank 10 in CodingRekt - 2022
 
 ## /Community Works
-1. [ABCs to Strong Passwords](https://er3nbagel.github.io/Portfolio/StrongPasswordGuide.md)
+1. [ABCs to Strong Passwords](https://er3nbagel.github.io/Portfolio/StrongPasswordGuide)
 2. More-to-come.
 
 ## /Socials
